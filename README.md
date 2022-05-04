@@ -1,4 +1,4 @@
-# wordpress_desafio
+# Desafio kubedev docker Wordpress
 
 Para subir o projeto execute o comando
 
